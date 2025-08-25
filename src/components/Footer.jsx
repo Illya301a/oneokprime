@@ -15,7 +15,7 @@ function Footer() {
                         <a href="#" className="hover:underline hover:text-purple-800 dark:hover:text-purple-100 me-4 md:me-6">Licensing</a>
                     </li>
                     <li>
-                        <a href="#" className="hover:underline hover:text-purple-800 dark:hover:text-purple-100">Contact</a>
+                        <a href="#" className="hover:underline hover:text-purple-800 dark:hover:text-purple-100">Contacts</a>
                     </li>
                 </ul>
             </div>
